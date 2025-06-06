@@ -1,4 +1,5 @@
 import { LinearClient } from '@linear/sdk';
+import 'dotenv/config';
 
 async function fetchLinearData() {
   // Replace with your Linear API key
